@@ -1,1 +1,24 @@
-# PriyanshuPandey
+# Hi, I'm Priyanshu
+
+I'm a Creative Frontend Developer focused on building immersive, animation-driven web experiences.
+
+I work mainly with:
+- HTML, CSS, JavaScript  
+- GSAP, ScrollTrigger  
+- React  
+- Creative UI animations & interactions  
+
+Current focus:
+- Advanced GSAP & creative development  
+- Interactive websites  
+- Building high-quality frontend projects  
+
+What you'll find here:
+- Creative animation experiments  
+- Interactive UI components  
+- Website projects  
+- Motion-focused frontend work  
+
+Connect with me:
+- LinkedIn: https://www.linkedin.com/in/priyanshu-pandey-56ba893a0
+- Instagram: https://www.instagram.com/developerhuyrrrrrrr/
