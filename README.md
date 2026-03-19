@@ -19,5 +19,4 @@ What you'll find here:
 - Motion-focused frontend work  
 
 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/priyanshu-pandey-56ba893a0
-- Instagram: https://www.instagram.com/developerhuyrrrrrrr/
+- Instagram: https://instagram.com/design.priyanshu
