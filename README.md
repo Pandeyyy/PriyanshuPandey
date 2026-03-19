@@ -3,9 +3,8 @@
 I'm a Creative Frontend Developer focused on building immersive, animation-driven web experiences.
 
 I work mainly with:
-- HTML, CSS, JavaScript  
-- GSAP, ScrollTrigger  
-- React  
+- React, Next.js
+- GSAP
 - Creative UI animations & interactions  
 
 Current focus:
